@@ -1,2 +1,2 @@
 # project-1
-A page of the project
+https://yakovmanit.github.io/project-1/
