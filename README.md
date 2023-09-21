@@ -1,2 +1,2 @@
-# project-1
+Project link
 https://yakovmanit.github.io/project-1/
